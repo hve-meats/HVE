@@ -6,8 +6,8 @@ var time = 3000;
 //Image List
 images[0] = 'img/HVE_Meat1.jpg';
 images[1] = 'img/HVE_Meat2.jpg';
-images[2] = 'img/HVE_Meat4.jpg';
-images[3] = 'img/Land.jpg';
+images[2] = 'img/HVE_Meat3.jpg';
+images[3] = 'img/HVE_Meat4.jpg';
 images[4] = 'img/HVE_Bull.jpg';
 images[5] = 'img/HVE_group.jpg';
 images[6] = 'img/sheep.jpg';
