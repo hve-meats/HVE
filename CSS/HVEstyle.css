@@ -305,7 +305,7 @@ div .about-image {
                 }
 
                 .message {
-
+                    flex-basis: 500px;
                     font-weight: bolder;
                     color: whitesmoke;
                     font-size: 20px;
@@ -368,7 +368,7 @@ h1 {
 }
 
 .message {
-
+    flex-basis: 500px;
     font-weight: bolder;
     color: whitesmoke;
     font-size: 20px;
