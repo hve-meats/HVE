@@ -304,6 +304,15 @@ div .about-image {
                 
                 }
 
+                .message {
+
+                    font-weight: bolder;
+                    color: whitesmoke;
+                    font-size: 20px;
+                    text-align: center;
+                
+                }
+
 }
 
 .heading {
@@ -355,5 +364,14 @@ h1 {
 
     padding: 0% !important;
     margin: 0 !important;
+
+}
+
+.message {
+
+    font-weight: bolder;
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
 
 }
