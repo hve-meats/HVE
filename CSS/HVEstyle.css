@@ -261,7 +261,50 @@ div .about-image {
                     
                 }
 
-            }
+                .preisliste-container {
+
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                   
+                    
+                    
+                }
+                
+                .preisliste {
+                    flex-basis: 500px;
+                    background-color:#679969;
+                    font-size: 2rem;
+                    text-align: center;
+                    border: 5px solid white;
+                    border-radius: 10px;
+                    padding: 0%;
+                    margin: 5px;   
+                    
+                    
+                }
+                
+                .preis-area {
+                
+                    background-color: white;
+                  }
+                
+                .rostbraten {
+                
+                    margin: 0 !important;
+                    padding-top: 0% !important;
+                    
+                }
+                
+                h1 {
+                
+                    padding: 0% !important;
+                    margin: 0 !important;
+                
+                }
+
+}
 
 .heading {
 
@@ -288,7 +331,7 @@ div .about-image {
     background-color:#679969;
     font-size: 2rem;
     text-align: center;
-    border: 5px solid whitesmoke;
+    border: 5px solid white;
     border-radius: 10px;
     padding: 0%;
     margin: 5px;   
