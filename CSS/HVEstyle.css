@@ -72,7 +72,7 @@ html {
 .navbar {
     /*background-color: rgb(170, 214, 49);*/
     max-width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('../img/unterhose.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('../img/unterhose2.jpg');
     background-size: cover;
     background-position: right;
     overflow: hidden;
