@@ -9,6 +9,8 @@ body {
      /*background-color: #4a2c2a;*/
      background-color: #96753e;
      border: 5px solid white;
+     width: 100%;
+     height: 100%;
      
 
      
@@ -23,14 +25,14 @@ body {
     /*background-color:#877e54;*/
     /*background-color: #99653e;*/
     background-color: #679969;
-    width: 100;
+    width: 100%;
     color: whitesmoke;
     font-size: 2rem;
     display: flex;
     margin-top: 0%;
     padding: 1%;
     margin: 1%;
-    max-width: 100%;
+    
     
     
 }
@@ -230,50 +232,85 @@ div .about-image {
 }
 
 
-@media (max-width: 699px) and (min-width: 100px) {
+@media (max-width: 750px) and (min-width: 360px) {
     
-    .about-container {
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
-        width: 100%;
-        height: 100%;
-       
-      
-    }
+                .about-container {
+                    display: flex;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    width: 100%;
+                    height: 100%;               
+                
+                }
 
-    .about-content {
+                .about-content {
 
-    
-        width: 98%;
-        height: 100%;
-        padding: 0;
-        margin: 0;
-    
-    }
+                
+                    width: 98%;
+                    height: 100%;
+                    padding: 0;
+                    margin: 0;
+                
+                }
 
-    div .about-image {
-   
-        width: 98%;
-        height: 100%;
-        padding-right: 50px;
-        
-    }
-    
-    
+                div .about-image {
+            
+                    width: 98%;
+                    height: 100%;
+                    padding-right: 50px;
+                    
+                }
 
-
-    
-    
-     }
-
-
-
-
+            }
 
 .heading {
 
     font-size: 3rem;
     color: white;
     text-decoration: underline;
+}
+
+/* Preisliste Styling*/
+
+.preisliste-container {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+    
+    
+}
+
+.preisliste {
+    flex-basis: 500px;
+    background-color:#679969;
+    font-size: 2rem;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    padding: 0%;
+    margin: 5px;   
+    
+    
+}
+
+.preis-area {
+
+    background-color: white;
+  }
+
+.rostbraten {
+
+    margin: 0 !important;
+    padding-top: 0% !important;
+    
+}
+
+h1 {
+
+    padding: 0% !important;
+    margin: 0 !important;
+
 }
