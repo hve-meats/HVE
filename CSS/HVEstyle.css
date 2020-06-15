@@ -72,7 +72,7 @@ html {
 .navbar {
     /*background-color: rgb(170, 214, 49);*/
     max-width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('../img/unterhose2.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('../img/unterhose.jpg');
     background-size: cover;
     background-position: right;
     overflow: hidden;
@@ -193,46 +193,79 @@ span #title {
 .about-container {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    width: 100%;
+    flex-wrap: wrap;  
     height: 100%;
-  
+    justify-content: flex-start;
+    align-items: flex-start;
+   
 }
 
 .alexyvonne {
-    flex: content;
-    width: 90%;
-    height: 50%;
-    border: solid 5px white;
-}
 
-div .about-image {
-
-    margin: 0;
-    padding: 0;
-    width: 40%;
-    height: 80%;
-
-}
-
-.about-image {
-
+    
     width: 100%;
     height: 100%;
-    margin: 0;
-    padding: 0;
-
-}
-
-.about-content {
-    flex: content;
-    margin: 0;
-    padding: 0;
-    width: 50%;
-   
+    margin-right:  5px;
+    
     
 }
 
+
+div .about-image {
+   
+    width: 30%;
+    height: 30%;
+    padding-right: 50px;
+    
+}
+
+.about-content {
+
+    
+    width: 60%;
+    height: 60%;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+@media (max-width: 699px) and (min-width: 100px) {
+    
+    .about-container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 100%;
+        height: 100%;
+       
+      
+    }
+
+    .about-content {
+
+    
+        width: 98%;
+        height: 100%;
+        padding: 0;
+        margin: 0;
+    
+    }
+
+    div .about-image {
+   
+        width: 98%;
+        height: 100%;
+        padding-right: 50px;
+        
+    }
+    
+    
+
+
+    
+    
+     }
 
 
 
