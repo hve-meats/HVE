@@ -17,6 +17,7 @@ images[9] = 'img/sheep.jpg';
 images[10] = 'img/sheep2.jpg';
 images[11] = 'img/Hochland2.jpg';
 images[12] = 'img/Hochland.jpg';
+images[13] = 'img/group2.jpg';
 
 //Change Image
 function changeImg() {
