@@ -108,7 +108,7 @@ html {
     z-index: 1;
     top: 5%;
     left: 0;
-    background-color:#b39b68;
+    background-color: #679969;
     opacity: 0.9;
     overflow-x: hidden;
     transition: 0.5s;  
@@ -140,7 +140,7 @@ html {
 
 .side-nav a:hover{
 
-    background-color: rgb(12, 41, 12);
+    background-color: #b09763;
     
 }
 
