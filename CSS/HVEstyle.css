@@ -165,7 +165,7 @@ span #title {
 #title {
 
     color:whitesmoke;
-    font-size: 6rem;
+    font-size: 10rem;
     font-weight:bolder;
     margin: 0;
     width: 100%;
@@ -313,6 +313,17 @@ div .about-image {
                     text-align: center;
                 
                 }
+
+                #title {
+
+                    color:whitesmoke;
+                    font-size: 4rem;
+                    font-weight:bolder;
+                    margin: 0;
+                    width: 100%;
+                    /*background-color: rgb(5, 12, 5);*/
+                }
+                
 
 }
 
