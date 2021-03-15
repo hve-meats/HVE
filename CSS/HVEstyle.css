@@ -227,6 +227,7 @@ div .about-image {
 .about-content {
     width: 60%;
     height: 60%;
+    color: white;
     padding: 0;
     margin: 0;    
 }
