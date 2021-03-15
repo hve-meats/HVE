@@ -219,6 +219,7 @@ div .about-image {
    
     width: 30%;
     height: 30%;
+     display: flex;
    /* padding-right: 50%;*/
     /*padding-left: 50%;*/
     
