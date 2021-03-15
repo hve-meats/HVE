@@ -209,8 +209,7 @@ img .alexyvonne {
 
     
     width: 100%;
-    height: 100%;
-    margin-right:  5px;
+    height: 100%;    
     border: #679969 solid 5px;
     
     
@@ -221,7 +220,8 @@ div .about-image {
    
     width: 30%;
     height: 30%;
-     display: flex;
+    display: flex;
+    margin-right:5%;
    /* padding-right: 50%;*/
     /*padding-left: 50%;*/
     
@@ -251,10 +251,7 @@ div .about-image {
                 
                 }
      
-                p .about-content {
-                   margin-left: 5%;
-
-                }
+               
 
                 .about-content {
 
@@ -262,7 +259,7 @@ div .about-image {
                     width: 98%;
                     height: 100%;
                     padding: 0;
-                    margin: 0;
+                    margin: 5%;
                 
                 }
 
@@ -271,6 +268,7 @@ div .about-image {
                     width: 98%;
                     height: 100%;
                     display: flex;
+                    margin-right:  5px;
                     /* padding-right: 50%;*/
                     /*padding-left: 50%;*/
                     
