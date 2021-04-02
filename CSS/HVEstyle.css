@@ -87,11 +87,12 @@ html {
     background-position: center;
     overflow: hidden;
     display: flex;
-    flex-direction: row;
+    flex-direction:row;
     justify-content:center;
     flex-wrap: wrap-reverse;
     margin: 1% ;
     padding: 0.5%;
+    
     
    
     /* linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/
@@ -103,6 +104,7 @@ html {
    flex-direction: column-reverse;
    align-items: flex-start;
    width: 10%;
+   
     
 }
 
@@ -358,7 +360,7 @@ td, th {
                 #title {
 
                     color:whitesmoke;
-                    font-size: 4rem;
+                    font-size: 3rem;
                     font-weight:bolder;
                     margin: 0;
                     width: 100%;
