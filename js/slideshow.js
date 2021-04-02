@@ -20,6 +20,7 @@ images[12] = 'img/Hochland2.jpg';
 images[13] = 'img/Hochland.jpg';
 images[14] = 'img/group2.jpg';
 images[15] = 'img/BullResting.jpg';
+images[16] = 'img/unterhose.jpg';
 
 
 //Change Image
