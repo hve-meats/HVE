@@ -270,6 +270,16 @@ td, th {
                 
                 }
 
+                .slideshow { 
+                    margin: 15px auto; 
+                    position: relative; 
+                    width: 50%;
+                    /*height: 100%;*/
+                    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+                    border: #679969 solid 5px;
+    
+                }
+
                 .about-content {
 
                 
