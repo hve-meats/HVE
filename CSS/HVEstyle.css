@@ -59,7 +59,7 @@ html {
 }
 
 #HVElogo {
-    max-width: 40%;
+    max-width: 20%;
 }
 
 #millingers {
@@ -72,15 +72,20 @@ html {
 
 }
 
+.open-slide {
+
+    height: 40%;
+}
+
 .navbar {
     /*background-color: rgb(170, 214, 49);*/
     font-family: 'Indie Flower',Arial, Helvetica, sans-serif;
-    max-width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('../img/unterhose.jpg');
+    /*max-width: 100%;*/
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('../img/bulllogo.jpg');
     background-size: cover;
-    background-position: right;
+    height: 300px;
+    background-position: center;
     overflow: hidden;
-    height: 5%;
     display: flex;
     flex-direction: row;
     justify-content: baseline;
@@ -97,7 +102,7 @@ html {
    display: flex;
    flex-direction: column-reverse;
    align-items: flex-start;
-   width: 20%;
+   width: 10%;
     
 }
 
@@ -176,8 +181,8 @@ span #title {
 
 #images {
     display: block;
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 40%;
+    /*max-height: 50%;*/
   }
   
 
