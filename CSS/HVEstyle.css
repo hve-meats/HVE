@@ -165,8 +165,8 @@ html {
 .side-nav .btn-close {
     position: absolute;
     top: 0;
-    left:65%;
-    font-size: 5rem !important;
+    left:50%;
+    font-size: 15rem !important;
 }
 
 span #title {
