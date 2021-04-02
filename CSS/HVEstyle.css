@@ -232,6 +232,7 @@ div .about-image {
     
 }
 
+
 .about-content {
 
     
@@ -249,11 +250,11 @@ td, th {
   text-align: left;
   padding: 8px;
   color: whitesmoke;
+
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
+
+
 
 
 
