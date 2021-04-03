@@ -311,9 +311,9 @@ td, th {
 
                 div .about-image {
             
-                    width: 98%;
-                    height: 100%;
-                    padding-right: 50px;
+                    width: 100%; 
+                    height: 100%;      
+                    padding: 0%;             
                     
                 }
 
@@ -327,6 +327,17 @@ td, th {
                     
                     
                 }
+
+                .alexyvonne {
+
+                width: 100%; 
+                height: 100%;
+                box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+                border: #679969 solid 5px;
+                padding: 0%;
+
+                }
+
                 
                 .preisliste {
                     flex-basis: 500px;
