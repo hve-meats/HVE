@@ -389,6 +389,17 @@ td, th {
                     width: 100%;
                     /*background-color: rgb(5, 12, 5);*/
                 }
+
+                .side-nav a{
+
+                    text-decoration: none;
+                    color: whitesmoke;
+                    font-size: 2rem;
+                    transition: 0.3s;
+                    padding: 15%;
+                    
+                }
+
                 
 
 }
