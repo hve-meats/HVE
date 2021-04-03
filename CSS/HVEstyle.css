@@ -401,7 +401,7 @@ td, th {
 }
 
 .preisliste {
-    flex-basis: 500px;
+    flex-basis: 300px;
     background-color:#679969;
     font-size: 2rem;
     text-align: center;
